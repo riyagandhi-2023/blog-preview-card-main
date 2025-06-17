@@ -1,0 +1,41 @@
+.attribution {
+    font-size: 11px;
+    text-align: center;
+}
+
+.attribution a {
+    color: hsl(228, 45%, 44%);
+}
+
+body {
+    background-color: hsl(47, 88%, 63%);
+}
+
+#card{
+    margin-left: 41%;
+    margin-top: 10%;
+    background-color: white;
+    height: 150%;
+    width: 20%;
+    border-radius: 3%;
+    border-style:solid;
+    box-shadow: 5px 10px;
+    padding: 15px;
+
+}
+
+#card_image{
+    width: 97%;
+    padding: 2%;
+    border-radius: 10%;
+}
+
+p {
+    font-weight: bold;
+}
+
+.Learning{
+    width: 50%;
+    padding: 5px;
+    background-color: hsl(47, 88%, 63%);
+}
